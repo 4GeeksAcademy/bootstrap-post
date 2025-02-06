@@ -1,0 +1,12 @@
+verde al botón:
+.btn btn-success me-2 {
+    background-color: #28a745; /* Verde */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+}
